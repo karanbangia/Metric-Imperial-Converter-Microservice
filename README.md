@@ -13,3 +13,8 @@ Sample Output:
      "returnUnit": "l",
      "string": "7.0 gal converts to26.49787 l"
  }`
+ 
+ To-Do:
+     [] Request Params special character identification.
+     [] Code Optimizations
+     [] Better Data-Structure for unit conversions
