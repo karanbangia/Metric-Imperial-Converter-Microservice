@@ -15,8 +15,9 @@ Sample Output:
  }`
  
  To-Do:
+ 
      [] Request Params special character identification.
      
-     [] Code Optimizations
+     [] Code Optimizations.
      
-     [] Better Data-Structure for unit conversions
+     [] Better Data-Structure for unit conversions.
